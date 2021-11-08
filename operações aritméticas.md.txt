@@ -1,0 +1,3 @@
+#Operações Aritméticas
+
+Algoritmo que lê dois números inseridos pelo usuário e realiza as operações aritméticas básicas.
